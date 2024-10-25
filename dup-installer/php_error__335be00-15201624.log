@@ -1,0 +1,183 @@
+[25-Oct-2024 21:57:34 UTC] PHP ERROR LOG INIT
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:34 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:44 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:57:46 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:02 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:13 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:58:35 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:01 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 21:59:16 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:04 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:07 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:09 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:14 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Undefined global variable $DUPX_AC in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
+[25-Oct-2024 22:00:15 UTC] PHP Warning:  Attempt to read property "package_hash" on null in /var/www/html/vap70/dup-installer/classes/class.package.php on line 40
