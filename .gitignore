@@ -1,0 +1,35 @@
+# Ignore les fichiers de configuration sensibles
+wp-config.php
+
+# Ignore le contenu des dossiers WordPress par défaut
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+
+# Si vous avez des thèmes ou plugins installés manuellement, ne pas les ignorer
+# Sinon, ignorer les plugins/thèmes téléchargés automatiquement
+wp-content/plugins/
+!wp-content/plugins/.gitkeep
+
+wp-content/themes/
+!wp-content/themes/.gitkeep
+
+# Ignore les fichiers de sauvegarde ou temporaires
+*.log
+*.sql
+*.tar.gz
+*.zip
+*.bak
+*.swp
+*.DS_Store
+
+# Ignore les outils d'environnement local
+.env
+vendor/
+node_modules/
+
+# Composer et autres gestionnaires de dépendances
+composer.lock
+package-lock.json
+yarn.lock
