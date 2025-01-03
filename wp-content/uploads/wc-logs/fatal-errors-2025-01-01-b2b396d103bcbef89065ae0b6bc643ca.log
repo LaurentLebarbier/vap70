@@ -1,0 +1,13 @@
+2025-01-01T20:33:53+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Automatic_Updater::is_allowed_dir() in /var/www/html/vap70/wp-admin/includes/class-wp-site-health-auto-updates.php:233
+Stack trace:
+#0 /var/www/html/vap70/wp-admin/includes/class-wp-site-health-auto-updates.php(36): WP_Site_Health_Auto_Updates->test_vcs_abspath()
+#1 /var/www/html/vap70/wp-admin/includes/class-wp-site-health.php(1812): WP_Site_Health_Auto_Updates->run_tests()
+#2 /var/www/html/vap70/wp-admin/includes/class-wp-site-health.php(192): WP_Site_Health->get_test_background_updates()
+#3 /var/www/html/vap70/wp-admin/includes/class-wp-site-health.php(2787): WP_Site_Health->perform_test()
+#4 /var/www/html/vap70/wp-includes/class-wp-hook.php(307): WP_Site_Health->wp_cron_scheduled_check()
+#5 /var/www/html/vap70/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/html/vap70/wp-includes/plugin.php(524): WP_Hook->do_action()
+#7 /var/www/html/vap70/wp-cron.php(138): do_action_ref_array()
+#8 {main}
+  thrown dans /var/www/html/vap70/wp-admin/includes/class-wp-site-health-auto-updates.php à la ligne 233
+
